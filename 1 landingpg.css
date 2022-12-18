@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+}
+#first-container{
+    background-color: #F1F7E7;
+    height: 38rem;
+}
+
+.hina{
+    padding-left: 1%;
+    color: darkolivegreen;
+    
+}
+.logs{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.nav-links{
+    color:darkolivegreen;
+    padding-right: 1%;
+}
+.mam{
+    height: 30rem;
+    margin-left: 16rem;
+
+}
+.miss{
+    color: darkolivegreen;
+}
+.eat{
+    position: absolute;
+    top: 10rem;
+    left:35rem;
+    font-size: 3rem;
+    line-height: 1rem;
+    font-family: 'ubuntu';
+}
+
+.travel{
+    position: absolute;
+    top: 13rem;
+    left:35rem;
+    font-size: 3rem;
+    /* line-height: 0.5rem; */
+    font-family: 'ubuntu';
+}
+
+.comm{
+    position: absolute;
+    top: 16rem;
+    left:35rem;
+    font-size: 5rem;
+    line-height: 7rem;
+    font-family: 'ubuntu';
+}
+
+#second-container{
+    padding: 5% 13%;
+    position: relative;
+    top: 2rem;
+}
+
+.abt{
+    margin-left:21rem ;
+    margin-bottom: 2rem;
+    font-family: 'ubuntu';
+}
+
+.ca{
+    height: 700px;
+}
+.caa{
+    height: 700px;
+}
+.caaa{
+    height: 700px;
+}
+
+#container-third{
+    padding: 5% 13%;
+    position: relative;
+    top: 2rem;
+    background-color: #F1F7E7 ;
+    font-family: 'ubuntu';
+
+}
+.join{
+    margin-left:25rem ;
+    margin-bottom: 4rem;
+    font-family: 'ubuntu';
+}
+
+.mix{
+    margin-left: 12%;
+}
+
+.pit{
+    margin-bottom: 2rem;
+}
+
+#container-four{
+    padding: 5% 13%;
+    position: relative;
+    top: 2rem;
+}
+
+.con{
+margin-left: 25rem;
+margin-bottom: 2rem;
+font-family: 'ubuntu';
+}
+
+.copyright{
+    margin-left: 26rem;
+    font-family: 'ubuntu';
+}
+.mixa{
+    text-decoration: none;
+    color: black;
+    font-family: 'ubuntu';
+}

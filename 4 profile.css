@@ -1,0 +1,106 @@
+body{
+    /* background-image: url("pfbg.webp"); */
+    background-color: #F1F7E7;
+}
+
+.box{
+    margin-left: 9%;
+    margin-top: 7.9%;
+    height: 30rem;
+    width: 65rem;
+    background-color: #22A39F;
+    /* border: 1px solid black; */
+    border-radius: 0.5rem;
+}
+
+.profile-pic-div{
+    height: 7rem;
+    width: 7rem;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid grey;
+}
+
+#photo{
+    height: 100%;
+    width: 100%;
+}
+
+#file{
+    display: none;
+}
+
+#uploadBtn{
+    height: 40px;
+    width: 100%;
+    position: absolute;
+    top:70%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    color: whitesmoke;
+    line-height: 30px;
+    font-family: sans-serif;
+    font-size: 0.5rem;
+    cursor: pointer;
+    display: none;
+}
+
+.name{
+    position: absolute;
+    top: 11.5rem;
+    left: 35.7rem;
+    
+}
+
+.bio{
+    width: 60rem;
+    height: 20rem;
+    position: absolute;
+    top: 10rem;
+    margin-left: 12%;
+    margin-top: 5.9%;
+}
+textarea{
+    resize: none;
+    border-style: none; 
+    border-color: Transparent; 
+    overflow: auto;        
+}
+
+.hamenu{
+    height:1.5rem;
+    width: 1.5rem;
+    position: absolute;
+    top: 2%;
+    left: 1%;
+}
+
+.comlogo{
+    height: 1.5rem;
+    width: 1.5rem;
+     position: absolute;
+    /* top: 2%; */
+    left: 4%; 
+}
+
+.comco{
+    position: absolute;
+    /* top: 1rem; */
+    left: 6.4%;
+}
+
+.grebu{
+    width: 22.7rem;
+}
+
+.navbar{
+    padding-top: 2%;
+    height: 10%;
+}
+

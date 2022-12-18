@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+
+.loggo{
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-top: 1%;
+}
+
+.camnico{
+    position: absolute;
+    top: 1.1rem;
+    left: 2.5rem;
+    color: #F1F7E7;
+}
+.searchbar{
+   width: 55rem;
+   position: absolute;
+   top: 0.5rem;
+   right: 10rem;
+}
+.navbar{
+    background-color: #22A39F;
+}
+.searbut{
+    position: absolute;
+    top: 0.5rem;
+   right: 5rem;
+   background-color: #9edcdb;
+}
+
+.bg{
+    width: 80rem;
+    height: 34rem;
+    opacity: 0.3;
+}
